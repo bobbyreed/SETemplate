@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "jest studentObjects.test.js"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
